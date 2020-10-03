@@ -24,7 +24,7 @@ Note : I have worked only posstive flow, so while adding stock/ editing stock gi
 
 --**[Laravel Default Auth if required]**
 
-   composer require laravel/ui "^1.0" --dev
+    composer require laravel/ui "^1.0" --dev
 
 --**[Run the database migrations (Set the database connection in .env before migrating)]**
 
