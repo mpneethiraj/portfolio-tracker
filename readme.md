@@ -8,8 +8,7 @@ Note : I have worked only posstive flow, so while adding stock/ editing stock gi
 ## Installation
 -- **[Clone the repository]**
 
-
- git@github.com:mpneethiraj/portfolio-tracker.git
+ 	git clone  git@github.com:mpneethiraj/portfolio-tracker.git
 
 --**[Install all the dependencies using composer]**
 
@@ -35,5 +34,5 @@ Note : I have worked only posstive flow, so while adding stock/ editing stock gi
 
 	php artisan serve
     
---**[You can now access the server at http://localhost:8000]**
+You can now access the server at http://localhost:8000
 
